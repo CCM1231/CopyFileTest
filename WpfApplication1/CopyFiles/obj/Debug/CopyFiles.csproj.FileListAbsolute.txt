@@ -1,0 +1,6 @@
+D:\VisualStudio2015Workspace\WpfApplication1\CopyFiles\bin\Debug\CopyFiles.exe.config
+D:\VisualStudio2015Workspace\WpfApplication1\CopyFiles\bin\Debug\CopyFiles.exe
+D:\VisualStudio2015Workspace\WpfApplication1\CopyFiles\bin\Debug\CopyFiles.pdb
+D:\VisualStudio2015Workspace\WpfApplication1\CopyFiles\obj\Debug\CopyFiles.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015Workspace\WpfApplication1\CopyFiles\obj\Debug\CopyFiles.exe
+D:\VisualStudio2015Workspace\WpfApplication1\CopyFiles\obj\Debug\CopyFiles.pdb
